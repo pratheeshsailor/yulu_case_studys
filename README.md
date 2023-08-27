@@ -38,3 +38,39 @@ casual: count of casual users
 registered: count of registered users
 
 count: count of total rental bikes including both casual and registered
+
+## Concept Used:
+
+Bi-Variate Analysis
+2-sample t-test: testing for difference across populations
+ANNOVA
+Chi-square
+
+Import the dataset and do usual exploratory data analysis steps like checking the structure & characteristics of the dataset
+
+Try establishing a relation between the dependent and independent variable (Dependent “Count” & Independent: Workingday, Weather, Season etc)
+
+Select an appropriate test to check whether:
+
+Working Day has effect on number of electric cycles rented
+
+No. of cycles rented similar or different in different seasons
+
+No. of cycles rented similar or different in different weather
+
+Weather is dependent on season (check between 2 predictor variable)
+
+Set up Null Hypothesis (H0)
+
+State the alternate hypothesis (H1)
+
+Check assumptions of the test (Normality, Equal Variance). You can check it using Histogram, Q-Q plot or statistical methods like levene’s test, Shapiro-wilk test (optional)
+
+Please continue doing the analysis even If some assumptions fail (levene’s test or Shapiro-wilk test) but double check using visual analysis and report wherever necessary
+
+Set a significance level (alpha)
+Calculate test Statistics.
+
+Decision to accept or reject null hypothesis.
+
+Inference from the analysis
