@@ -6,7 +6,7 @@ Yulu zones are located at all the appropriate locations (including metro station
 Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 Dataset:
 
-Dataset Link: yulu_data.csv
+Dataset Link: yulu_data.csv(https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/428/original/bike_sharing.csv?1642089089)
 
 # Column Profiling:
 
