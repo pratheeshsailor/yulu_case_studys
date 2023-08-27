@@ -42,8 +42,11 @@ count: count of total rental bikes including both casual and registered
 ## Concept Used:
 
 Bi-Variate Analysis
+
 2-sample t-test: testing for difference across populations
+
 ANNOVA
+
 Chi-square
 
 Import the dataset and do usual exploratory data analysis steps like checking the structure & characteristics of the dataset
